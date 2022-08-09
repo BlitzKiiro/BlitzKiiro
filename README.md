@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 Genral Kenobi! 🤖</h1>
+<h1 align="center">Hello there! 👋 General Kenobi! 🤖</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=Web+Developer;In+love+wih+JavaScript)](https://git.io/typing-svg)
 
