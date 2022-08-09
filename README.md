@@ -43,7 +43,7 @@
 <!-- web desktop -->
 <!-- electron js -->
 
-</a> <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron js " width="40" height="40"/><a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <!-- Tauri js --> /a> <img src="https://d33wubrfki0l68.cloudfront.net/4112b407ce93d899a0e499bbefa9fc172b11685e/49ffa/meta/tauri_logo_dark.svg" alt="Tauri"  height="40"/><a href="https://tauri.app/" target="_blank" rel="noreferrer">
+</a> <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron js " width="40" height="40"/><a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <!-- Tauri js --> </a> <img src="https://d33wubrfki0l68.cloudfront.net/4112b407ce93d899a0e499bbefa9fc172b11685e/49ffa/meta/tauri_logo_dark.svg" alt="Tauri"  height="35"/><a href="https://tauri.app/" target="_blank" rel="noreferrer">
 
 </div>
 
