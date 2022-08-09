@@ -1,11 +1,11 @@
-<h2 align="center">Hello there! 👋</h2>
-<h1 align="center">Genral Kenobi! 🤖</h1>
+<h1 align="center">Hello there! 👋 Genral Kenobi! 🤖</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=Web+Developer;In+love+wih+JavaScript)](https://git.io/typing-svg)
 
 <h3 align="left">Languages, frameworks, libraries & uikits:</h3>
 
-<!-- html -->
+<div align="left">
+    <!-- html -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
 
@@ -15,7 +15,7 @@
 
 <!-- javascript -->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript target="\_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 
 <!-- typescript -->
 
@@ -52,3 +52,5 @@
 <!-- node js -->
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+
+</div>
