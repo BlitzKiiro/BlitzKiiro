@@ -26,11 +26,11 @@
 <!-- backend -->
 <!-- node js -->
 
-</a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/> <!-- express js --> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="express js" width="40" height="40"/>
+</a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/> <!-- express js --> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express js" width="40" height="40"/>
 
 <!-- db -->
 <!-- MongoDB  js -->
 
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/> <!-- prisma js --> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="Prisma ORM/ODM" width="40" height="40"/>
+</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> <!-- prisma js --> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="Prisma ORM/ODM" width="40" height="40"/>
 
 </div>
