@@ -28,12 +28,12 @@
 
 <!-- react -->
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React JS" width="40" height="40"/> </a > <!-- next --> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" width="40" height="40"/> <a href="https://redux.js.org/" target="_blank" rel="noreferrer" > <!-- redux --> </a> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a >
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React JS" width="40" height="40"/> </a > <!-- next --> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" width="40" height="40"/> <a href="https://redux.js.org/" target="_blank" rel="noreferrer" > <!-- redux --> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a >
 
 <!-- backend -->
 <!-- node js -->
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/></a > <!-- express js --> <a ref="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express js" width="40" height="40"/></a h>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/></a > <!-- express js --> <a ref="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express js" width="40" height="40"/></a >
 
 <!-- db -->
 <!-- MongoDB  js -->
