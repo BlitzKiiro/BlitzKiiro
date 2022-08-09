@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=Web+Developer;In+love+wih+JavaScript)](https://git.io/typing-svg)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/AzmyNG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahd_fady212" height="30" width="40" /></a> </a>
+<a href="https://fb.com/100009391450593/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahd fady" height="30" width="40" /></a>
+
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -34,3 +41,5 @@
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> <!-- prisma js --> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="Prisma ORM/ODM" width="40" height="40"/>
 
 </div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlitzKiiro&show_icons=true&locale=en&layout=compact" alt="fahdfady" /></p>
