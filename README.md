@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋 Genral Kenobi! 🤖</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=F0A500&center=true&vCenter=true&lines=Web+Developer;In+love+wih+JavaScript)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=F0A500&center=true&vCenter=true&lines=Web+Developer;In+love+wih+JavaScript)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
