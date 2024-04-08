@@ -1,11 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Azmy and I'm a Software Engineer from Egypt.</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlitzKiiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BlitzKiiro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h2 align="left">Hi 👋! My name is Ahmed Azmy and I'm a Software Engineer.</h2>
 
 ###
 
@@ -83,8 +76,21 @@
 
 ###
 
-<br clear="both">
+<div style="display:flex; gap:20px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlitzKiiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BlitzKiiro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
+
+<br clear="both">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
+
+<style>
+  a {
+    color:transparent;
+    text-decoration:none;
+  }
+<style>
